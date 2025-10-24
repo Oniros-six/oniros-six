@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Arrigonni</h1>
 <h3 align="center">
-  Full Stack Developer from Uruguay — passionate about clean code, smooth interfaces, and solid architecture.
+ I’m a Uruguayan Full Stack Developer, passionate about clean code, smooth interfaces, and solid architecture.  
+ I prefer solving problems efficiently rather than chasing perfection — after all, perfection doesn’t exist.
 </h3>
 
 <p align="center">
